@@ -53,7 +53,9 @@ Bruce, P., & Bruce, A. (2019). Estatística prática para cientistas de dados: 5
 
 Fávero, L. P., Lopes E, B., & Prado, P. (2017). Manual de análise de dados: estatística e modelagem multivariada com Excel, SPSS e Stata. Elsevier.
 
-Kaggle: Your machine learning and data science community. (n.d.). Kaggle.com. Acesso em 20 Jan 2024 de https://www.kaggle.com.
+Kaggle: Your machine learning and data science community. (n.d.). Kaggle.com. Acesso em 10 Mar 2024 de https://www.kaggle.com.
+
+Eraser. Documents & diagrams for engineering teams. Acesso em 13 Mar 2024 de https://app.eraser.io.
 
 
 ----
@@ -63,3 +65,4 @@ Kaggle: Your machine learning and data science community. (n.d.). Kaggle.com. Ac
 - [ADA Tech](https://ada.tech/)
 - [Banco Santander - Academy](https://app.santanderopenacademy.com/pt-BR/program/bolsas-santander-santander-coders-2023-2-edicao)
 - [Python](https://www.python.org)
+- [Eraser](https://app.eraser.io)
