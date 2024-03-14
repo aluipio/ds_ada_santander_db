@@ -37,6 +37,7 @@ Os dados não possuem a completude de toda operação do Delivery Center e algum
 
 Fonte: [Kaggle - Delivery Center: Food & Goods orders in Brazil](https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center)
 
+![mer](https://github.com/aluipio/ds_ada_santander_db/blob/main/mer/diagram-export.png)
 
 ## **3. LIMITAÇÕES:**
 
