@@ -43,6 +43,7 @@ Fonte: [Kaggle - Delivery Center: Food & Goods orders in Brazil](https://www.kag
 ## **3. LIMITAÇÕES:**
 
 Uso apenas de ferramentas trabalhadas na ementa do curso Santander Coders - ADA Tech. 
+	
 	* SqlAlchemy;
 	* Pandas;
 	* Psycopg2;
